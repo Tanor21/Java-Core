@@ -4,7 +4,6 @@ public class VariablesInJava {
     public static void main(String[] args) {
         System.out.println();
         System.out.println("==================================== ☕ JAVA VARIABLES ☕ ====================================");
-        //System.out.println();
         System.out.println("☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️️️");
 
         // Variable = Type + Variable's name + initialisation;
