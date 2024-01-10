@@ -7,7 +7,7 @@ public class SwitchStatementInJava {
         System.out.println("☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️️️");
 
         /*
-            Instead of writing many if..else statements, you can use the switch statement.
+            Instead of writing many if...else statements, you can use the switch statement.
             The switch statement selects one of many code blocks to be executed :
          */
         int day = 4;
@@ -36,6 +36,8 @@ public class SwitchStatementInJava {
             case 7:
                 System.out.println("Sunday");
                 break;
+            default:
+                System.out.println("Looking forward to the Weekend");
         }
         System.out.println();
         System.out.println("☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️️️");
