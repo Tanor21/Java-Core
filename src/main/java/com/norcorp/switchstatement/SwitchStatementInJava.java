@@ -10,7 +10,7 @@ public class SwitchStatementInJava {
             Instead of writing many if...else statements, you can use the switch statement.
             The switch statement selects one of many code blocks to be executed :
          */
-        int day = 4;
+        int day = 5;
 
 
         System.out.println();
