@@ -17,7 +17,7 @@ public class ForLoopInJava {
         for (int i = 0; i < 5; i++) {
             System.out.println(i);
         }
-        System.out.println("--------");
+        System.out.println("-------");
         // Outer loop
         for (int i = 1; i <= 2; i++) {
             System.out.println("Outer: " + i); // Executes 2 times
