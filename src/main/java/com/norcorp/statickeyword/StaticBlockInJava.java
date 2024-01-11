@@ -34,8 +34,9 @@ public class StaticBlockInJava {
         System.out.println("☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️️️");
 
         /*
-            In Java, a static method is a method that belongs to the class, rather than an instance of the class.
-            Static methods are accessed through the class name, rather than an object of the class.
+            In Java, a static block is a block of code enclosed within curly braces and preceded by the static keyword.
+            This block of code is part of a class and is executed when the class is loaded into the Java Virtual Machine (JVM).
+            It is executed only once, before any instance of the class is created or any static member of the class is accessed.
          */
 
         // Mobile 1
@@ -43,8 +44,6 @@ public class StaticBlockInJava {
         mobile1.brand = "Apple";
         mobile1.price = 10000;
         Mob.name = "SmartPhone";
-
-        Mob mobile2 = new Mob();
 
         System.out.println();
         mobile1.show();
