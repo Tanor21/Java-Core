@@ -28,7 +28,7 @@ class Mob {
 }
 
 public class StaticBlockInJava {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ClassNotFoundException {
         System.out.println();
         System.out.println("==================================== ☕ JAVA STATIC BLOCK ☕ ====================================");
         System.out.println("☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️️️");
@@ -39,6 +39,9 @@ public class StaticBlockInJava {
             It is executed only once, before any instance of the class is created or any static member of the class is accessed.
          */
 
+        // This is how to load a class.
+        //Class.forName("com.norcorp.statickeyword.Mob");
+
         // Mobile 1
         Mob mobile1 = new Mob();
         mobile1.brand = "Apple";
@@ -46,7 +49,7 @@ public class StaticBlockInJava {
         Mob.name = "SmartPhone";
 
         System.out.println();
-        mobile1.show();
+        //mobile1.show();
         System.out.println();
         System.out.println("☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️☕️️️");
     }
