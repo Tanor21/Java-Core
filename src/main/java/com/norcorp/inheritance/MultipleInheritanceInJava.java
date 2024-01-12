@@ -3,11 +3,11 @@ package com.norcorp.inheritance;
 class D {
 
 }
-class E {
+class E extends D {
 
 }
-//class F extends E, D { In java multiple inheritance does not work
-class F {
+//class F extends E, D {} In java multiple inheritance does not work
+class F extends E {
 
 }
 
