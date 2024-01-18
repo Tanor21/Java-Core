@@ -22,7 +22,6 @@ public class AbstractKeywordInJava {
 
         /*
            Abstract Keyword :
-
          */
         Car obj = new Bmw();
 
