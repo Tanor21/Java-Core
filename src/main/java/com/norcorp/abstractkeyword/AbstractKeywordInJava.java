@@ -8,6 +8,7 @@ abstract class Car {
     }
 }
 
+
 class Bmw extends Car {
     public void drive() {
         System.out.println("Driving...");
