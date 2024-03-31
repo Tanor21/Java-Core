@@ -1,0 +1,11 @@
+
+]
+java:S2094"BRemove this empty class, write its code or make it an "interface".(æÙ—ˆýÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(³üŸ„
+@	java:S106"+Replace this use of System.out by a logger.(Æê¦ù
+E	java:S106!"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+E	java:S106#"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+@	java:S106$"+Replace this use of System.out by a logger.(Æê¦ù
+@
+java:S6217"%Remove this redundant permitted list.(æÙ—ˆýÿÿÿÿ

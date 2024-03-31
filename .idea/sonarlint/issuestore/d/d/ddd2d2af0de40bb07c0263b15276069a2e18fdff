@@ -1,0 +1,15 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(Á™ò¸úÿÿÿÿ8åˆÓòÑ1
+L	java:S1064"+Replace this use of System.out by a logger.(ˆöÇµıÿÿÿÿ8éˆÓòÑ1
+F	java:S1068"+Replace this use of System.out by a logger.(œß°s8íˆÓòÑ1
+L	java:S106>"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8íˆÓòÑ1
+G	java:S106?"+Replace this use of System.out by a logger.(½éßÏ8îˆÓòÑ1
+G	java:S106@"+Replace this use of System.out by a logger.(Æê¦ù8ïˆÓòÑ1
+L	java:S106K"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ğˆÓòÑ1
+L	java:S106L"+Replace this use of System.out by a logger.(¬‚Œøûÿÿÿÿ8ğˆÓòÑ1
+G	java:S106M"+Replace this use of System.out by a logger.(î†Œ“8ğˆÓòÑ1
+L	java:S106N"+Replace this use of System.out by a logger.(Ñÿß¬üÿÿÿÿ8ñˆÓòÑ1
+L	java:S106O"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÁÖÓòÑ1
+G	java:S106P"+Replace this use of System.out by a logger.(Æê¦ù8±‡İòÑ1
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8ÂÖÓòÑ1

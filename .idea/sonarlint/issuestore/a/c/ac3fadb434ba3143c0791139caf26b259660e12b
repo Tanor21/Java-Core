@@ -1,0 +1,23 @@
+
+E	java:S106
+"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¶¨œ
+@	java:S106"+Replace this use of System.out by a logger.(Æê¦ù
+Q	java:S125"<This block of commented-out lines of code should be removed.(‹°éù
+Q	java:S125"<This block of commented-out lines of code should be removed.(®åî˜
+V
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(²Ş²ò
+@	java:S106"+Replace this use of System.out by a logger.(²Ş²ò
+E	java:S106'"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(›·íÕ
+E	java:S106("+Replace this use of System.out by a logger.(¡¤–õûÿÿÿÿ
+@	java:S106*"+Replace this use of System.out by a logger.(¦œß®
+V	java:S125)"<This block of commented-out lines of code should be removed.(ş¹èøüÿÿÿÿ
+U
+java:S1612,"@Replace this lambda with method reference 'System.out::println'.(äÍ¼&
+?	java:S106,"+Replace this use of System.out by a logger.(äÍ¼&
+@	java:S106-"+Replace this use of System.out by a logger.(öÈÛ¡
+E	java:S1060"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+@	java:S1061"+Replace this use of System.out by a logger.(Æê¦ù
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ

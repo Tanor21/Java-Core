@@ -1,0 +1,17 @@
+
+n	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ážù
+n	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ážù
+n	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ážù
+n	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ážù
+R
+java:S3066"<Lower the visibility of this setter or remove it altogether.(¢¬¢ß
+E	java:S106"+Replace this use of System.out by a logger.(¥·×´þÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¡…ãÿüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Æê¦ù
+E	java:S106("+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+E	java:S106)"+Replace this use of System.out by a logger.(¾÷ü¼ùÿÿÿÿ
+E	java:S106*"+Replace this use of System.out by a logger.(ÏŠñðýÿÿÿÿ
+E	java:S106,"+Replace this use of System.out by a logger.(ÆÛ±üÿÿÿÿ
+E	java:S106."+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+@	java:S106/"+Replace this use of System.out by a logger.(Æê¦ù
